@@ -627,5 +627,20 @@
         "icon": "http://uniform.wingzero.tw/favicon.png"
       }
     ]
+  },
+  {
+    "title": "常用bt网址",
+    "children": [
+      {
+        "text": "Rarbg",
+        "url": "https://rarbggo.org/catalog/",
+        "desc": "聚集热门影视"
+      },
+      {
+        "text": "YIFY",
+        "url": "https://yifytorrent.vip/",
+        "desc": "影视分类比较清晰"
+      }
+    ]
   }
 ]
