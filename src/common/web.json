@@ -2,6 +2,11 @@
   {
     "title": "实用网站",
     "children": [
+       {
+        "text": "聚BT导航",
+        "url": "https://jubt.top/",
+        "desc": "聚BT - 聚合最优质的BT、磁力资源 | BT搜索 磁力搜索 云盘搜索 影视APP 在线影视 磁力影视 种子搜索"
+      },
       {
         "text": "今日热榜",
         "url": "https://tophub.today/",
