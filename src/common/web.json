@@ -640,6 +640,11 @@
         "text": "YIFY",
         "url": "https://yifytorrent.vip/",
         "desc": "影视分类比较清晰"
+      },
+      {
+        "text": "Jackett",
+        "url": "https://j4all.herokuapp.com/",
+        "desc": "聚合多个bt网址"
       }
     ]
   }
