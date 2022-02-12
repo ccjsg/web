@@ -644,6 +644,7 @@
       {
         "text": "Jackett",
         "url": "https://j4all.herokuapp.com/",
+        "icon": "https://j4all.herokuapp.com/jacket_medium.png",
         "desc": "聚合多个bt网址"
       }
     ]
